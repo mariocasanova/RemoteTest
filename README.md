@@ -1,5 +1,5 @@
 Ingredients
 
 Formatge
-	Ceba
-	    Bacon
+	Ceba > Peperoni
+	    Bacon > Piña
